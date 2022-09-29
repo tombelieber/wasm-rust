@@ -2,3 +2,8 @@ build
 dist
 node_modules
 *.log
+
+# Added by cargo
+
+/target
+/Cargo.lock
